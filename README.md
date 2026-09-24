@@ -11,11 +11,11 @@ Broking Limited.
 
 - **[Global-Portfolio-and-Risk-model](https://github.com/dalalvivang/Global-Portfolio-and-Risk-model)**
   - a mean variance portfolio across 39 global multi currency equities,
-  stabilised with Ledoit-Wolf shrinkage and tested through walk-forward
+  stabilised with Ledoit Wolf shrinkage and tested through walk forward
   out of sample backtesting.
 
 - **[influence-of-retail-attention-on-financial-markets](https://github.com/dalalvivang/influence-of-retail-attention-on-financial-markets)**
-  - my BMS thesis,
+  - My BMS thesis,
   testing whether retail search attention drives mutual fund flows using a
   VAR framework and Granger causality, validated against the source paper's
   own tables.
